@@ -17,9 +17,9 @@ function MyApp({ Component, pageProps }: AppProps) {
           <Link href="/new">Add Pet</Link>
         </div>
 
-        <img
+      <img
           id="title"
-          src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Pet_logo_with_flowers.png"
+          src="https://static.vecteezy.com/system/resources/previews/009/551/676/non_2x/shy-dog-logo-illustration-depicting-shy-dog-suitable-for-pet-company-free-vector.jpg"
           alt="pet care logo"
         ></img>
       </div>
